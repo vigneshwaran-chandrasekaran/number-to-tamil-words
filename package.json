@@ -1,0 +1,12 @@
+{
+  "name": "number-to-tamil-words",
+  "version": "1.0.0",
+  "description": "Convert numbers to Tamil words.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": ["number", "tamil", "words", "conversion"],
+  "author": "",
+  "license": "MIT"
+}
