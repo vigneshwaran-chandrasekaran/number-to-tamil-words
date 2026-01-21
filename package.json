@@ -1,12 +1,31 @@
 {
   "name": "number-to-tamil-words",
   "version": "1.0.0",
-  "description": "Convert numbers to Tamil words.",
+  "description": "Convert numbers to Tamil words (தமிழ் எழுத்துக்கள்)",
   "main": "src/index.js",
+  "files": [
+    "src/index.js"
+  ],
+  "keywords": [
+    "tamil",
+    "number",
+    "words",
+    "convert",
+    "தமிழ்",
+    "number-to-words",
+    "number-to-tamil-words"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vigneshwaran-chandrasekaran/number-to-tamil-words.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vigneshwaran-chandrasekaran/number-to-tamil-words/issues"
+  },
+  "homepage": "https://github.com/vigneshwaran-chandrasekaran/number-to-tamil-words#readme",
   "scripts": {
     "test": "node test/test.js"
   },
-  "keywords": ["number", "tamil", "words", "conversion"],
-  "author": "",
+  "author": "Vigneshwaran <ac.vigneshwaran@gmail.com>",
   "license": "MIT"
 }
